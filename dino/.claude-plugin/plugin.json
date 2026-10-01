@@ -1,0 +1,6 @@
+{
+  "name": "dino-break",
+  "version": "0.1.0",
+  "description": "An ASCII dino-run game that opens while Claude works on a long task",
+  "types": "./types/index.d.ts"
+}
